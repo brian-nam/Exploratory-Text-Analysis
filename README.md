@@ -9,7 +9,7 @@ The notebook takes raw text files of eight novels by Charles Dickens and Mark Tw
 - topic models
 - word2vec
 
-<h2>Key learnings</h2>
+<h2>Key Learnings</h2>
 
 - Other than Great Expectations, Oliver Twist and A Tramp Abroad, The Innocents Abroad, no other novels shared similar topics
 - Innocent Abroad and A Tramp Abroad fit most of the topics pretty well while Adventure of Huckleberry Finn only fit a very few topics well
