@@ -20,6 +20,7 @@ The notebook takes raw text files of eight novels by Charles Dickens and Mark Tw
 <h2>Contents</h2>
 
 - main: Jupyter notebook along with the source text files of the novels
+  - Use <a href="https://nbviewer.jupyter.org/" target="_blank">nbviewer</a> in case of error when trying to view notebook on github
 - tables: output corpus tables generated from the jupyter notebook
 
 <h2>Future Improvements</h2>
