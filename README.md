@@ -3,7 +3,19 @@
 
 
 <h2>About</h2>
-The notebook takes raw text files of eight novels by Charles Dickens and Mark Twain (4 from each other) from Project Gutenberg and converts them into a preliminary table with each paragraph in one row (DOC). It also creates another table containing basic information about the novels, such as title and author (LIB). It then annotates the tables into two more tables, TOKEN and VOCAB, containing information about the terms used in all of the novels. After cleaning the data to remove punctuations, numbers, and insignificant terms (using TFIDF values) it further annotates the tables using:
+
+The notebook takes raw text files of eight novels by Charles Dickens and Mark Twain (4 from each other) from Project Gutenberg and converts them into a preliminary table with each paragraph in one row (DOC). The novels used are:
+
+- The Adventures of Tom Sawyer
+- Adventures of Huckleberry Finn
+- The Innocents Abroad
+- A Tramp Abroad
+- A Tale of Two Cities
+- Great Expectations
+- Oliver Twist
+- Hard Times
+
+It also creates another table containing basic information about the novels, such as title and author (LIB) and generated two more tables, TOKEN and VOCAB, from the DOC table which contains information about the terms used in all of the novels. After cleaning the data to remove punctuations, numbers, and insignificant terms (using TFIDF values) it further annotates the tables using:
 
 - PCA
 - topic models
