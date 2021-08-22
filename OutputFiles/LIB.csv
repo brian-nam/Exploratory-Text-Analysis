@@ -1,0 +1,9 @@
+book_id,book_title,book_file,title,author,genre
+119,"A Tramp Abroad, by Mark Twain (Samuel Clemens)",ebooks\119-0.txt,A Tramp Abroad,Twain,travel
+1400,"Great Expectations, by Charles Dickens",ebooks\1400-0.txt,Great Expectations,Dickens,novel
+3176,"The Innocents Abroad, by Mark Twain (Samuel Clemens)",ebooks\3176-0.txt,The Innocents Abroad,Twain,historical
+730,"Oliver Twist, by Charles Dickens",ebooks\730-0.txt,Oliver Twist,Dickens,novel
+74,"The Adventures of Tom Sawyer, by Mark Twain",ebooks\74-0.txt,The Adventures of Tom Sawyer,Twain,picaresque
+76,"Adventures of Huckleberry Finn, by Mark Twain (Samuel Clemens)",ebooks\76-0.txt,Adventures of Huckleberry Finn,Twain,picaresque
+786,"Hard Times, by Charles Dickens",ebooks\786-0.txt,Hard Times,Dickens,novel
+98,"A Tale of Two Cities, by Charles Dickens",ebooks\98-0.txt,A Tale of Two Cities,Dickens,historical
